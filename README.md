@@ -20,10 +20,10 @@ WEB Engineer
 
 <!-- リポジトリのステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KonoLevel1&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KonoLevel1&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" /　style="max-width: 100%;">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonoLevel1&layout=compact&theme=tokyonight" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonoLevel1&layout=compact&theme=tokyonight" /　style="max-width: 100%;">
 </a>
 
 <!--
