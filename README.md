@@ -17,6 +17,8 @@
 ### Hi there 👋
 
 WEB Engineer
+My annual income is about 3.4 million yen.
+Let's have fun this year. Yeah!
 
 <!-- リポジトリのステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
