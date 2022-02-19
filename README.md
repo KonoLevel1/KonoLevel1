@@ -1,3 +1,5 @@
+<!-- バッジの表示 -->
+
 <p align="left"> 
   <a href="https://github.com/KonoLevel1/KonoLevel1/">
     <img src="https://komarev.com/ghpvc/?username=KonoLevel1" alt="KonoLevel1" />
@@ -9,7 +11,20 @@
     <img height="20" src="https://img.shields.io/github/followers/KonoLevel1?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+<!-- 一言 -->
+
 ### Hi there 👋
+
+WEB Engineer
+
+<!-- リポジトリのステータス -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KonoLevel1&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonoLevel1&layout=compact&theme=tokyonight" />
+</a>
 
 <!--
 **KonoLevel1/KonoLevel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
