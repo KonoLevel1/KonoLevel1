@@ -19,6 +19,8 @@ WEB Engineer
 My annual income is about 3.4 million yen.
 Let's have fun this year. Yeah!
 
+I don't know much about it, but I'm interested in NFT because it looks like fun.
+
 <!-- リポジトリのステータス -->
 <!-- 改行しちゃうとインライン要素が2段階になってしまうので、改行せず実装。うーん、見た目が悪い -->
 <a href="https://github.com/anuraghazra/github-readme-stats" >
