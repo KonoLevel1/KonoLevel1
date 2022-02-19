@@ -1,3 +1,14 @@
+<p align="left"> 
+  <a href="https://github.com/KonoLevel1/KonoLevel1/">
+    <img src="https://komarev.com/ghpvc/?username=KonoLevel1" alt="KonoLevel1" />
+  </a>
+  <a href="https://twitter.com/KonoLv1">
+    <img height="20" src="https://img.shields.io/twitter/follow/KonoLv1?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/KonoLevel1">
+    <img height="20" src="https://img.shields.io/github/followers/KonoLevel1?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 ### Hi there 👋
 
 <!--
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
