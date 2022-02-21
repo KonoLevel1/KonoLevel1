@@ -31,7 +31,7 @@ Thanks for reading.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KonoLevel1&hide=contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonoLevel1&layout=compact&theme=tokyonightinclude_all_commits">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonoLevel1&langs_count=8&layout=compact&theme=tokyonightinclude_all_commits">
 </a>
 
 
