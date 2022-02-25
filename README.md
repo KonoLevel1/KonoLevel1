@@ -16,7 +16,7 @@
 ### Hi there 👋
 
 WEB Engineer
-My annual income is about 3.4 million yen.
+My annual income is about 4 million yen.
 Let's have fun this year. Yeah!
 
 I don't know much about it, but I'm interested in NFT because it looks like fun.
